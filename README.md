@@ -1,2 +1,2 @@
-# Deployment-1
+# Deployment
 Project for testing of deployment
